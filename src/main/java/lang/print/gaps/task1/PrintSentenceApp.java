@@ -6,5 +6,5 @@ public class PrintSentenceApp {
             System.out.println("This is my first java program");
             }
         }
-    }
+
 
